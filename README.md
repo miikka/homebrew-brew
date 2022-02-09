@@ -1,4 +1,4 @@
-# Miikka Brew
+# Miikka's Brew
 
 ## How do I install these formulae?
 
